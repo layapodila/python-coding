@@ -2,3 +2,7 @@ a = 1
 b = 5
 multiply = a*b
 print(multiply)
+
+value1 = 3
+value2 = 4
+print(value1/value2)
